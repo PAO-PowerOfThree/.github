@@ -15,6 +15,9 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ##  System Architecture
 
+
+<img src="photos/pao.drawio.png" width="100%">
+
 ### 1. Bare Metal Microcontrollers
 - **ESP32** → Secure fingerprint enrollment & authentication (SHA hashing).  
 - **STM32 Bluepill** → Reads potentiometers & push buttons, transmits real-time data via CAN.  
