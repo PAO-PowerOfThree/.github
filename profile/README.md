@@ -1,4 +1,4 @@
-# 🚀 PAO – PowerOfThree
+# PAO – PowerOfThree
 
 It started with three people, less than one month, and one big idea:  
 to bring together **Bare Metal, Embedded Linux, and Android Automotive** into a single connected system.
@@ -13,7 +13,7 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ### 1. Bare Metal Microcontrollers
 - **ESP32** → Secure fingerprint enrollment & authentication (SHA hashing).  
@@ -39,7 +39,7 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ---
 
-## 🌟 Key Innovations
+##  Key Innovations
 - **End-to-End Security** → Fingerprint & OTA updates protected with SHA hashing.  
 - **vsomeip in Yocto & Android VHAL** → Event-driven communication across systems.  
 - **meta-pao Yocto Layer** → Customized integration layer with automation (systemd).  
@@ -78,7 +78,7 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ---
 
-## 📂 Repositories
+## Repositories
 
 Our ecosystem is split into multiple repos:
 
@@ -93,7 +93,7 @@ Our ecosystem is split into multiple repos:
 
 ---
 
-## 🎯 Vision
+##  Vision
 
 Three people.  
 Three systems.  
