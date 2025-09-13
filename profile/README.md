@@ -78,6 +78,18 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ---
 
+
+## 🎥 Demo Video
+
+
+<a href="https://drive.google.com/file/d/19n2JCSxDfh3MOdo6iIw8W6HvVE2Foaig/view?usp=sharing">
+  <img src="photos/video.png" width="75">
+</a>
+
+Click the image above to watch the demo video on Google Drive.
+
+---
+
 ## Repositories
 
 Our ecosystem is split into multiple repos:
