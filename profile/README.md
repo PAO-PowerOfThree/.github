@@ -97,14 +97,15 @@ Click the image above to watch the demo video on Google Drive.
 
 Our ecosystem is split into multiple repos:
 
-- [**AOSP**](../AOSP) → Platform customization, VHAL, Kotlin passenger app.  
-- [**Qt**](../Qt) → Cluster display with Qt6 & QML.  
-- [**Bare-Metal**](../Bare-Metal) → STM32 & ESP32 drivers and secure fingerprint.  
-- [**Yocto**](../Yocto) → Custom meta-pao layer with vsomeip and Qt integration.  
-- [**OTA**](../OTA) → Secure update mechanism with SHA verification.  
-- [**Security**](../Security) → Cryptography & communication security.  
-- [**vsomeip**](../vsomeip) → Middleware for client/server communication.  
-- [**.github**](../.github) → Org-wide configs and workflows.  
+- [**AOSP**](https://github.com/PAO-PowerOfThree/AOSP) → Platform customization, VHAL, Kotlin passenger app.  
+- [**Qt**](https://github.com/PAO-PowerOfThree/Qt) → Cluster display with Qt6 & QML.  
+- [**Bare-Metal**](https://github.com/PAO-PowerOfThree/Bare-Metal) → STM32 & ESP32 drivers and secure fingerprint.  
+- [**Yocto**](https://github.com/PAO-PowerOfThree/Yocto) → Custom meta-pao layer with vsomeip and Qt integration.  
+- [**OTA**](https://github.com/PAO-PowerOfThree/OTA) → Secure update mechanism with SHA verification.  
+- [**Security**](https://github.com/PAO-PowerOfThree/Security) → Cryptography & communication security.  
+- [**vsomeip**](https://github.com/PAO-PowerOfThree/vsomeip) → Middleware for client/server communication.  
+- [**.github**](https://github.com/PAO-PowerOfThree/.github) → Org-wide configs and workflows.  
+
 
 ---
 
