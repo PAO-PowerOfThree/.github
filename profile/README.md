@@ -51,7 +51,22 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ---
 
-## 📸 Passenger Display Screenshots
+## 📸 Cluster (Yocto) Display Screenshots
+
+<img src="photos/fingercluster.png" width="100%">
+<img src="photos/fingercluster2.png" width="100%">
+<img src="photos/clusterscreen.png" width="100%">
+
+---
+
+
+
+## The Secondary Display
+
+
+
+
+## 📸 Passenger (AOSP) Display Screenshots
 
 ### Fingerprint
 <img src="photos/fingerprint.png" width="100%">
