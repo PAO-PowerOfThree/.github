@@ -50,20 +50,31 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ## 📸 Passenger Display Screenshots
 
+### Fingerprint
+<img src="photos/fingerprint.png" width="400">
+
 ### Main Dashboard
-<img src="photos/main1.png" width="400"> <img src="photos/main2.png" width="400">
+<img src="photos/main1.png" width="400">
+<img src="photos/main2.png" width="400">
 
 ### Ambient Lighting
-<img src="photos/light1.png" width="300"> <img src="photos/light2.png" width="300"> <img src="photos/light3.png" width="300">
+<img src="photos/light1.png" width="300">
+<img src="photos/light2.png" width="300">
+<img src="photos/light3.png" width="300">
 
 ### HVAC Control
-<img src="photos/hvac1.png" width="300"> <img src="photos/hvac2.png" width="300"> <img src="photos/hvac3.png" width="300">
+<img src="photos/hvac1.png" width="300">
+<img src="photos/hvac2.png" width="300">
+<img src="photos/hvac3.png" width="300">
 
 ### Navigation
-<img src="photos/map1.png" width="300"> <img src="photos/map2.png" width="300"> <img src="photos/map3.png" width="300">
+<img src="photos/map1.png" width="300">
+<img src="photos/map2.png" width="300">
+<img src="photos/map3.png" width="300">
 
 ### Voice Recognition
 <img src="photos/voice.png" width="400">
+
 
 ---
 
