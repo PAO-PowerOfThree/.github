@@ -1,4 +1,4 @@
-# 🚀 PAO – PowerOfThree
+# PAO – PowerOfThree
 
 It started with three people, less than one month, and one big idea:  
 to bring together **Bare Metal, Embedded Linux, and Android Automotive** into a single connected system.
@@ -13,7 +13,10 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
+
+
+<img src="profile/photos/pao.drawio.png" width="100%">
 
 ### 1. Bare Metal Microcontrollers
 - **ESP32** → Secure fingerprint enrollment & authentication (SHA hashing).  
@@ -39,7 +42,7 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ---
 
-## 🌟 Key Innovations
+##  Key Innovations
 - **End-to-End Security** → Fingerprint & OTA updates protected with SHA hashing.  
 - **vsomeip in Yocto & Android VHAL** → Event-driven communication across systems.  
 - **meta-pao Yocto Layer** → Customized integration layer with automation (systemd).  
@@ -48,41 +51,80 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 ---
 
-## 📸 Passenger Display Screenshots
+## 📸 Cluster (Yocto) Display Screenshots
 
-### Main Dashboard
-<img src="photos/main1.png" width="400"> <img src="photos/main2.png" width="400">
-
-### Ambient Lighting
-<img src="photos/light1.png" width="300"> <img src="photos/light2.png" width="300"> <img src="photos/light3.png" width="300">
-
-### HVAC Control
-<img src="photos/hvac1.png" width="300"> <img src="photos/hvac2.png" width="300"> <img src="photos/hvac3.png" width="300">
-
-### Navigation
-<img src="photos/map1.png" width="300"> <img src="photos/map2.png" width="300"> <img src="photos/map3.png" width="300">
-
-### Voice Recognition
-<img src="photos/voice.png" width="400">
+<img src="profile/photos/fingercluster.png" width="100%">
+<img src="profile/photos/fingercluster2.png" width="100%">
+<img src="profile/photos/clusterscreen.png" width="100%">
 
 ---
 
-## 📂 Repositories
+
+
+## The Secondary Display
+
+
+
+
+## 📸 Passenger (AOSP) Display Screenshots
+
+### Fingerprint
+<img src="profile/photos/fingerprint.png" width="100%">
+
+### Main Dashboard
+<img src="profile/photos/main1.png" width="100%">
+<img src="profile/photos/main2.png" width="100%">
+
+### Ambient Lighting
+<img src="profile/photos/light1.png" width="100%">
+<img src="profile/photos/light2.png" width="100%">
+<img src="profile/photos/light3.png" width="100%">
+
+### HVAC Control
+<img src="profile/photos/hvac1.png" width="100%">
+<img src="profile/photos/hvac2.png" width="100%">
+<img src="profile/photos/hvac3.png" width="100%">
+
+### Navigation
+<img src="profile/photos/map1.png" width="100%">
+<img src="profile/photos/map2.png" width="100%">
+<img src="profile/photos/map3.png" width="100%">
+
+### Voice Recognition
+<img src="profile/photos/voice.png" width="100%">
+
+
+---
+
+
+## 🎥 Demo Video
+
+
+<a href="https://drive.google.com/file/d/19n2JCSxDfh3MOdo6iIw8W6HvVE2Foaig/view?usp=sharing">
+  <img src="profile/photos/video.png" width="75">
+</a>
+
+Click the image above to watch the demo video on Google Drive.
+
+---
+
+## Repositories
 
 Our ecosystem is split into multiple repos:
 
-- [**AOSP**](../AOSP) → Platform customization, VHAL, Kotlin passenger app.  
-- [**Qt**](../Qt) → Cluster display with Qt6 & QML.  
-- [**Bare-Metal**](../Bare-Metal) → STM32 & ESP32 drivers and secure fingerprint.  
-- [**Yocto**](../Yocto) → Custom meta-pao layer with vsomeip and Qt integration.  
-- [**OTA**](../OTA) → Secure update mechanism with SHA verification.  
-- [**Security**](../Security) → Cryptography & communication security.  
-- [**vsomeip**](../vsomeip) → Middleware for client/server communication.  
-- [**.github**](../.github) → Org-wide configs and workflows.  
+- [**AOSP**](https://github.com/PAO-PowerOfThree/AOSP) → Platform customization, VHAL, Kotlin passenger app.  
+- [**Qt**](https://github.com/PAO-PowerOfThree/Qt) → Cluster display with Qt6 & QML.  
+- [**Bare-Metal**](https://github.com/PAO-PowerOfThree/Bare-Metal) → STM32 & ESP32 drivers and secure fingerprint.  
+- [**Yocto**](https://github.com/PAO-PowerOfThree/Yocto) → Custom meta-pao layer with vsomeip and Qt integration.  
+- [**OTA**](https://github.com/PAO-PowerOfThree/OTA) → Secure update mechanism with SHA verification.  
+- [**Security**](https://github.com/PAO-PowerOfThree/Security) → Cryptography & communication security.  
+- [**vsomeip**](https://github.com/PAO-PowerOfThree/vsomeip) → Middleware for client/server communication.  
+- [**.github**](https://github.com/PAO-PowerOfThree/.github) → Org-wide configs and workflows.  
+
 
 ---
 
-## 🎯 Vision
+##  Vision
 
 Three people.  
 Three systems.  
