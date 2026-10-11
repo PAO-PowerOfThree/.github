@@ -18,6 +18,10 @@ Together, we designed, coded, and integrated everything end-to-end into a **Tri-
 
 <img src="photos/pao.drawio.png" width="100%">
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/PatrickAtef8/PatrickAtef8/main/assets/architecture.svg" alt="PAO Power of Three tri-system architecture: bare metal, embedded Linux and Android Automotive" width="100%">
+
 ### 1. Bare Metal Microcontrollers
 - **ESP32** → Secure fingerprint enrollment & authentication (SHA hashing).  
 - **STM32 Bluepill** → Reads potentiometers & push buttons, transmits real-time data via CAN.  
